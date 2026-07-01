@@ -1,0 +1,137 @@
+canonical_identifier: bkk:krp/KR6v0347/v1
+canonical_location: https://kanripo.org/bkk/KR6v0347/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 辨了不了義善說藏論
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B10/B10n0048.xml
+    old_id: B10n0048
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0347_000.yaml, hash: 'sha256:27ef0a746a203309571c969ac5baaba176150bcf9a80f03e95141054ec837c3c'}
+  - {seq: 1, filename: KR6v0347_001.yaml, hash: 'sha256:b1caa194a1d812148cca36f9c61b7bad040b8162e508055cbff237264bd13780'}
+  - {seq: 2, filename: KR6v0347_002.yaml, hash: 'sha256:b98accba895de10e96443d4f9f36247c605855ec913412debf35cdb5ab6e4c85'}
+  - {seq: 3, filename: KR6v0347_003.yaml, hash: 'sha256:c1a5cb008e911ef69ddfd9ddba408ec36840e497ae5263667cfc6d4a6fc10442'}
+  - {seq: 4, filename: KR6v0347_004.yaml, hash: 'sha256:e0b6127ab2ce482d949738afa83a0961a7e5cc4d9a0f06554f3ebac62744130e'}
+  - {seq: 5, filename: KR6v0347_005.yaml, hash: 'sha256:4911c84b4136c93b927a653745b9cd075f13b43ad84dc26d10d6368e498483d3'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0347_001.markers.yaml, hash: 'sha256:ed746434eaf08f2ab2007597f1061ab6de20670cad80fe973edd11df39ae655f'}
+  - {seq: 2, role: markers, filename: assets/KR6v0347_002.markers.yaml, hash: 'sha256:0afca98ea2f926362ba76418ae3078cf9838ac485714b77c2efeffa3288a16f7'}
+  - {seq: 3, role: markers, filename: assets/KR6v0347_003.markers.yaml, hash: 'sha256:4b1b4885e5db0680bdd3620b7bcefcf84b3ab34fa0f24ae7cb2ffa73be962131'}
+  - {seq: 4, role: markers, filename: assets/KR6v0347_004.markers.yaml, hash: 'sha256:d03b9481fbfaa321b0ff7380f4112667c7c81cc20583f7b925600d1041add501'}
+  - {seq: 5, role: markers, filename: assets/KR6v0347_005.markers.yaml, hash: 'sha256:2110172e1654ec96a7c9b8742dccdad3534f3f23daf13e191f50d5515bf2b99e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0347_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 科判
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0347_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 9211
+  label: 辨了不了義善說藏論卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0347_B_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 序文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0347_B_001-mulu-2
+    span:
+    - body
+    - 554
+    - 554
+  label: 依止《解深密經》
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0347_B_002-juan-start
+    span:
+    - body
+    - 0
+    - 10567
+  label: 辨了不了義善說藏論卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0347_B_003-juan-start
+    span:
+    - body
+    - 0
+    - 10824
+  label: 辨了不了義善說藏論卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6v0347_B_003-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 依止《無盡慧經》
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6v0347_B_004-juan-start
+    span:
+    - body
+    - 0
+    - 11221
+  label: 辨了不了義善說藏論卷四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0347_B_005-juan-start
+    span:
+    - body
+    - 0
+    - 13878
+  label: 辨了不了義善說藏論卷五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6v0347_B_005-mulu-1
+    span:
+    - body
+    - 13057
+    - 13057
+  label: 結語
+  type: mulu
+  level: 1
+hash: sha256:f3ae0b57fa5c91b37f909a32c13e9966b98563236c0e001446cd2289d33e01d2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
